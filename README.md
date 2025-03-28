@@ -1,2 +1,2 @@
 # Ishihara-Test
-The Ishihara Test Program is designed to help users test their color vision, more precisely their ability to distinguish between red and green colors. 
+The Ishihara Test Program is designed to help users test their color vision, more precisely their ability to distinguish between red and green colors. The program simulates the popular Ishihara color vision test, which consists of a series of images with colored dots that are arranged in such a way that individuals with normal color vision can perceive numbers or shapes, while individuals with color blindness may not be able to see them.
